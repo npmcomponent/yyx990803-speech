@@ -1,0 +1,13 @@
+{
+  "name": "yyx990803-speech",
+  "description": "Chrome speech recognition wrapper",
+  "version": "1.0.0",
+  "keywords": [
+    "speech",
+    "recognition"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}
